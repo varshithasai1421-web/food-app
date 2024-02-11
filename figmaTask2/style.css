@@ -1,0 +1,222 @@
+
+.navigationbar{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-items ul{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    
+    
+}
+.nav-items{
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-items li:hover{
+    color: orangered;
+}
+.logo{
+    padding-left: 60px;
+}
+.main{
+    background-image: url(Rectangle\ 48.png);
+    height: 600px;
+    width: 1485px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main h2{
+    
+    font-family: sans-serif;
+    color: white;
+text-align: center;
+padding-top: 100px;
+font-size: 300%;
+
+}
+
+.main p{
+    font-family: sans-serif;
+    color:white;
+    text-align: center;
+    font-size: 150%;
+   
+}
+.top p{
+    position: relative;
+    bottom: -110px;
+    
+}
+
+.btn-one button{
+    background-color: orangered;
+    position: relative;
+    left: 600px;
+    border-radius: 50px;
+    padding:10px 30px;
+    border:none;
+    color: white;
+}
+.btn-two button{
+
+    position: relative;
+    left: 750px;
+    top:-35px;
+    border-radius: 50px;
+    padding:10px 30px;
+    border:none;
+   
+}
+
+
+.home{
+    display: flex;
+    justify-content: center;
+}
+.img-one{
+    padding-left: 450px 50px;
+    position: relative;
+    top:-330px;
+}
+
+.img-two{
+    position: relative;
+    top: -100px;
+    left: -230px;
+    
+}
+.intro{
+    display: flex;
+    justify-content: space-between;
+
+}
+.img-three p{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 600px ;
+}
+
+.img-three{
+    position: relative;
+    top: -400px;
+    left: 80px;
+}
+.content-one{
+    font-family: sans-serif;
+    position: relative;
+    right:430px ;
+     width: 310px;
+}
+.content-one h5{
+    font-family: sans-serif;
+    color: orangered;
+}
+
+.intro-two{
+    display: flex;
+    justify-content: space-between;
+}
+.content-two{
+    font-family: sans-serif;
+    width: 200px;
+    position: relative;
+    left: 190px;
+    top: -300px;
+    
+}
+.content-two h5{
+    color: orangered;
+}
+
+.img-four{
+    position: relative;
+    top: -600px;
+    right: 120px;
+}
+
+.img-three p{
+    font-size: 30px;
+    text-align: center;
+    padding-left: 600px ;
+}
+
+.img-five{
+    position: relative;
+    top: -620px;
+    left: 80px;
+}
+.content-three{
+    font-family: sans-serif;
+    position: relative;
+    right:300px ;
+    top:-320px; 
+    width: 300px;
+}
+.content-three h5{
+    color: orangered;
+}
+.intro-four{
+    background-image: url(Rectangle\ 47\ \(1\).png);
+    height: 600px;
+    width: 1485px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: -600px;
+}
+.end{
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: -190px;
+    font-size: 20px;
+}
+
+.btn-three button{
+    background-color: orangered;
+    position: relative;
+    bottom:-250px;
+    left: 610px;
+    border-radius: 50px;
+    padding:10px 30px;
+    border:none;
+    color: white;
+   
+}
+.btn-four button{
+   position: relative;
+   bottom: -208px;
+left: 800px; 
+border-radius: 50px;
+    padding:10px 30px;
+    border:none;  
+    
+}
+.btn-four{
+    display: flex;
+    justify-content: space-between;
+}
+.icons{
+    color: orangered;
+    position: relative;
+    top: -520px;
+    left:800px ;
+}
+.rights{
+    position: relative;
+    top: -560px;
+    left:1080px ;
+    font-family: sans-serif;
+}
+.img-six{
+    position: relative;
+    top: -460px;
+    left:180px;
+}
